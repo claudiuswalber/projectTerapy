@@ -5,7 +5,7 @@ O projeto está sendo desenvolvido em Java
 Tem por objetivos
 
 Geral:
-O acompamnhamento dos atendimentos prestados por Assistentes Terapêuticas (ATs) aos pacientes com TEA
+- O acompamnhamento dos atendimentos prestados por Assistentes Terapêuticas (ATs) aos pacientes com TEA
 
 Específicos:
 - Cadastrar Pacientes
@@ -17,9 +17,9 @@ Específicos:
 - Realizar a emissão de Relatórios de Atendimentos
 
 Classes Principais
-Pessoa 
-    --> Pacientes
-    --> Profissionais
-Documentos
-Endereco
-Atendimento
+- Pessoa 
+    - Pacientes
+    - Profissionais
+- Documentos
+- Endereco
+- Atendimento
