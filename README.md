@@ -16,3 +16,10 @@ Específicos:
 - Realizar o controle de dias e horários de atendimento
 - Realizar a emissão de Relatórios de Atendimentos
 
+Classes Principais
+Pessoa 
+    --> Pacientes
+    --> Profissionais
+Documentos
+Endereco
+Atendimento
